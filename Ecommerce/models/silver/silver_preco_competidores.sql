@@ -1,0 +1,11 @@
+-- ============================================
+-- CAMADA SILVER: Preco Competidores
+-- ============================================
+
+SELECT
+    id_produto,
+    nome_concorrente,
+    preco_concorrente,
+    data_coleta,
+    DATE(data_coleta::timestamp) AS data_coleta_date
+FROM {{ ref('bronze_preco_competidores') }}
