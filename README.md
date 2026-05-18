@@ -9,6 +9,7 @@ This project implements an end-to-end **Data Platform** that simulates the data 
 The data workflow culminates in an interactive, premium-designed **Executive Dashboard** built with Streamlit, enabling data-driven decisions for C-level management.
 
 This project demonstrates real-world data modeling, analytics engineering, and business intelligence practices.
+
 ---
 Site do Bi: [E-commerce](https://welldadose-commerce.streamlit.app/)
 <img src="Pictures/BI E-commerce.png" alt="BI E-commerce" width="100%">
