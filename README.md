@@ -27,7 +27,7 @@ The main goal of this project is to showcase:
 
 ## 🏗️ Architecture
 
-<img src="https://raw.githubusercontent.com/WellingtonMartinsSantos/WellingtonMartinsSantos/refs/heads/main/LogoGit.gif" alt="E-Commerce Architecture" width="100%">
+<img src="Picture Architecture.png" alt="E-Commerce Architecture" width="100%">
 
 ---
 - **Bronze (Raw):** Direct 1:1 replication of the operational e-commerce tables (`vendas`, `clientes`, `produtos`, `preco_competidores`).
